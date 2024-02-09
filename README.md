@@ -8,7 +8,7 @@ The Weather App is a simple yet powerful application built using ReactJS and Tai
 ## Features
 
 - **Current Weather:** Provides current weather information including temperature, humidity, wind speed, and weather conditions.
-- **Search Functionality:** Users can search for weather information by city name or ZIP code.
+- **Search Functionality:** Users can search for weather information by city name.
 - **Responsive Design:** The app is fully responsive and works seamlessly across desktop, tablet, and mobile devices.
 - **Clean UI:** The user interface is designed to be intuitive and easy to navigate.
 
